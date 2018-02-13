@@ -1,12 +1,12 @@
 [https://imgur.com/a/KZioG](https://imgur.com/a/KZioG)
 Criando uma Exchange do 0
 
-Sobre o professor.
- Roberto Borsatti , 28 anos , programador PHP a mais de 12 anos, trabalhou em diversos projetos de diversas áreas.
- Atualmente sou dono da minha empresa e presto consultoria para outras empresas, atualmente presto consultoria para uma empresa americana. 
- Há alguns meses fui convidado a me juntar a um projeto de criação de uma exchange, como já era investidor de criptomoedas, e o valor era bem convidativo resolvi aceitar o desafio.
- Estudei por muitos dias, e em nenhum momento achei materiais em portugues, somente em inglês, por isso resolvi lançar esse curso, para ajudar a comunidade brasileira.
- 
+Sobre o professor.<br>
+ Roberto Borsatti , 28 anos , programador PHP a mais de 12 anos, trabalhou em diversos projetos de diversas áreas.<br>
+ Atualmente sou dono da minha empresa e presto consultoria para outras empresas, atualmente presto consultoria para uma empresa americana. <br>
+ Há alguns meses fui convidado a me juntar a um projeto de criação de uma exchange, como já era investidor de criptomoedas, e o valor era bem convidativo resolvi aceitar o desafio.<br>
+ Estudei por muitos dias, e em nenhum momento achei materiais em portugues, somente em inglês, por isso resolvi lançar esse curso, para ajudar a comunidade brasileira.<br>
+ <br>
  Introdução ao Curso.
 
 
