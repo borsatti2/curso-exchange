@@ -1,4 +1,4 @@
-![https://imgur.com/a/KZioG](https://imgur.com/a/KZioG)
+[https://imgur.com/a/KZioG](https://imgur.com/a/KZioG)
 Criando uma Exchange do 0
 
 Sobre o professor.
