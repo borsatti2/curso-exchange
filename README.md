@@ -1,4 +1,4 @@
-<img src='https://imgur.com/a/KZioG'>
+[https://i.imgur.com/NkJDPZ7.jpg](https://i.imgur.com/NkJDPZ7.jpg)
 Criando uma Exchange do 0
 
 Sobre o professor.<br>
